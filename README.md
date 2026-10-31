@@ -6,3 +6,10 @@ Projekt zaliczeniowy (temat 4.5, poziom 4).
     uv sync
     uv run pytest -v
     uv run marimo edit raport.py
+
+
+# Osoby odpowiedzialne za realizację projektu:
+   
+ Vladyslav Kyselov
+   
+ Andrij Kolibabchuk
